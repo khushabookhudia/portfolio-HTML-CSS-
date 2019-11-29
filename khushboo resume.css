@@ -1,0 +1,147 @@
+
+	.body{
+		background-color: #FDFEFE;
+		margin-left: 25px;
+		margin-right: 25px;
+		background-image: url("https://storage.cloud.google.com/dev.olivetech.io/cool-background.png");
+		min-height: 100%;
+		background-repeat: no-repeat;
+		background-size: cover;
+		opacity: 0.80;
+		
+}
+.image{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 100px;
+	height: 100px;
+}
+.image{
+	border-radius: 0%;
+	height: 30%;
+	width: 20%;
+}
+.h1{
+	font-family: 'Times';
+	text-align: center;
+	font-size: 50px;
+	margin-top: 20px;
+	color: white;
+
+}
+.h2{
+	color:  #1A5276;
+}
+.p1{
+	font-family: 'Nunito', Courier;
+	font-size: 20px;
+	font-weight: 600;
+	line-height: 25px;
+	margin: 10px;
+	padding-right: 10px;
+	padding-left: 2px;
+	text-align: left;
+	color: #000000;
+}
+#nav-bar {
+	background-color: #0E6655  ;
+	width: 100%;
+	text-align: right;
+	float: right;
+}
+#nav-bar a{
+	display: block;
+	text-decoration: none;
+	color: white;
+	text-align: right;
+	padding: 10px 10px;
+	font-family: 'Times', Courier;
+	font-size: 20px;
+	font-weight: 500;
+
+}
+
+.work{
+	font-family: 'Roboto', Courier, monospace;
+	font-size: medium;
+
+}
+.u1{
+	font-family: 'Roboto', Courier, monospace;
+	font-size: 18px;
+	line-height: 20px;
+}
+.skills > ul:after {
+    content: '';
+    display: table;
+    clear: both;
+}
+
+.skills > ul > li {
+    display: block;
+    float: left;
+    margin: 6px 6px 0 0;
+}
+
+.skills > ul > li > span {
+	font-family: 'Roboto';
+    background-color: #808B96 ;
+    border: 1px solid rgba(45, 45, 45, 0.1618);
+    border-radius: 3px;
+    color:white ;
+    padding: 4px 8px;
+    display: inline-block;
+}
+.interest > ul:after {
+    content: '';
+    display: table;
+    clear: both;
+}
+
+.interest > ul > li {
+    display: block;
+    float: left;
+    margin: 6px 6px 0 0;
+}
+
+.interest > ul > li > span {
+	font-family: 'Roboto';
+    background-color: #F2F3F4  ;
+    border: 1px solid rgba(45, 45, 45, 0.1618);
+    border-radius: 3px;
+    color:black ;
+    padding: 4px 8px;
+    display: inline-block;
+}
+.languages > ul:after {
+    content: '';
+    display: table;
+    clear: both;
+}
+
+.languages > ul > li {
+    display: block;
+    float: left;
+    margin: 6px 6px 0 0;
+}
+
+.languages > ul > li > span {
+	font-family: 'Nunito';
+    background-color: #839192  ;
+    border: 1px solid rgba(45, 45, 45, 0.1618);
+    border-radius: 3px;
+    color:white ;
+    padding: 4px 8px;
+    display: inline-block;
+}
+.certsname{
+	font-size: larger; 
+	font-family: 'Roboto';
+	color: white;
+}
+.p{
+	font-size: large;
+	color: white;
+	font-size: 15px;
+}
